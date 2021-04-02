@@ -1,5 +1,3 @@
-$ touch ~/.gitignore $ git config --global core.excludesFile ~/.gitignore 
-
 *.mp3
 *.ogg
 *.png
